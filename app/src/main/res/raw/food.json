@@ -1,0 +1,99 @@
+[
+  {
+    "menus": [
+      {
+        "name": "Spaghetti",
+        "price": 10.00,
+        "url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/17/1/FN_Simple-Spaghetti-with-Tomato-Sauce_s4x3.jpg.rend.hgtvcom.826.620.suffix/1408069256188.jpeg",
+        "desc": "Spaghetti is a long, thin, solid, cylindrical pasta."
+      },
+      {
+        "name": "Spaghettios Pizza",
+        "price": 13.99,
+        "url": "https://lh3.googleusercontent.com/p/AF1QipN-WboPX7pEgnNqg78wranzezsGMdPfwCoxQjdJ=s1280-p-no-v1",
+        "desc": "SpaghettiOs is an American brand of canned ring-shaped pasta pieces in tomato sauce."
+      },
+      {
+        "name": "Chocolate Pizza",
+        "price": 4.99,
+        "url": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/08/blah.jpg",
+        "desc": "Chocolate pizza is a type of pizza prepared using chocolate as a primary ingredient."
+      },
+      {
+        "name": "Cheese Sticks",
+        "price": 5.49,
+        "url": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21-500x500.jpg",
+        "desc": "Cheese sticks are deep-fried snacks composed of sliced cheeses wrapped in spring roll wrapper."
+      },
+      {
+        "name": "CHICKEN FINGER SANDWICH",
+        "price": 4.00,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420",
+        "desc": "A chicken sandwich is a sandwich that typically consists of boneless, skinless chicken breast or thigh served between slices of bread, on a bun, or on a roll. "
+      },
+      {
+        "name": "FINGERZ BOXED LUNCH",
+        "price": 3.25,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420",
+        "desc": "SpaghettiOs is an American brand of canned ring-shaped pasta pieces in tomato sauce."
+      },
+      {
+        "name": "HOUSE ZALAD BOXED",
+        "price": 5.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420",
+        "desc": "Mixed greens, red cabbage, carrots, cucumbers, Roma tomatoes, cheddar and Jack cheeses, fried onions and grilled chicken with Texas Toast."
+      },
+      {
+        "name": "COBB ZALAD BOXED",
+        "price": 3.99,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420",
+        "desc": "SpaghettiOs is an American brand of canned ring-shaped pasta pieces in tomato sauce."
+      },
+      {
+        "name": "COOKIE AND BROWNIE ",
+        "price": 8.09,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420",
+        "desc": "Brownies are chocolaty baked products made in square or rectangle shapes. They are commonly consumed around the world and are made with flour, fat (oil or butter), sugar, eggs and chocolate"
+      },
+      {
+        "name": "BROWNIE PLATTER",
+        "price": 6.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420",
+        "desc": "SpaghettiOs is an American brand of canned ring-shaped pasta pieces in tomato sauce."
+      },{
+        "name": "Hot Dog",
+        "price": 2.99,
+        "url": "https://awrestaurants.com/sites/default/files/hotdog_0.png",
+        "desc": "SpaghettiOs is an American brand of canned ring-shaped pasta pieces in tomato sauce."
+      },
+      {
+        "name": "Cheese Dog",
+        "price": 3.59,
+        "url": "https://www.cookingpanda.com/wp-content/uploads/2020/07/7R26235-16x9-1-scaled.jpg",
+        "desc": "SpaghettiOs is an American brand of canned ring-shaped pasta pieces in tomato sauce."
+      },
+      {
+        "name": "Midway Monster",
+        "price": 5.44,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2KzBUdwZjGoJIWIqHGHDozwcr3_oGrkhYQ&usqp=CAU",
+        "desc": "SpaghettiOs is an American brand of canned ring-shaped pasta pieces in tomato sauce."
+      },
+      {
+        "name": "Fries",
+        "price": 2.00,
+        "url": "https://images.fineartamerica.com/images-medium-large-5/crinkle-cut-french-fries-full-frame-foodcollection.jpg",
+        "desc": "SpaghettiOs is an American brand of canned ring-shaped pasta pieces in tomato sauce."
+      },
+      {
+        "name": "Milkshake",
+        "price": 3.49,
+        "url": "https://files.heftycdn.com/wp-content/uploads/2020/06/7c19980b4ec07e741b2823ea45370467.png",
+        "desc": "SpaghettiOs is an American brand of canned ring-shaped pasta pieces in tomato sauce."
+      }
+
+    ]
+  }
+
+
+
+]
